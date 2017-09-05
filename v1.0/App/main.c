@@ -65,7 +65,7 @@ int main(void)
 			{
 				if(BmpSound==1)
 				{
-					BmpSoundflag1=1;
+					//BmpSoundflag1=1;
 				}
 				
 			}
