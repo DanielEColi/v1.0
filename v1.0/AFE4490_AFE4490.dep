@@ -1,5 +1,5 @@
 Dependencies for Project 'AFE4490', Target 'AFE4490': (DO NOT MODIFY !)
-F (.\App\main.c)(0x59AD22C4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\App -I.\BSP -I.\SpO2 -I.\STM32F2xx_StdPeriph_Driver -I.\Usart-I H:\keil\ARM\RV31\INC-I H:\keil\ARM\CMSIS\Include-I H:\keil\ARM\Inc\ST\STM32F2xx-DSTM32F2XX -DUSE_STDPERIPH_DRIVER -o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+F (.\App\main.c)(0x568135BC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\App -I.\BSP -I.\SpO2 -I.\STM32F2xx_StdPeriph_Driver -I.\Usart-I H:\keil\ARM\RV31\INC-I H:\keil\ARM\CMSIS\Include-I H:\keil\ARM\Inc\ST\STM32F2xx-DSTM32F2XX -DUSE_STDPERIPH_DRIVER -o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
 I (E:\leiyu\DM82\DM82\v1.0\v1.0\BSP\bsp.h)(0x532A5260)
 I (E:\leiyu\DM82\DM82\v1.0\v1.0\App\stm32f2xx_conf.h)(0x4F0A8470)
 I (E:\leiyu\DM82\DM82\v1.0\v1.0\STM32F2xx_StdPeriph_Driver\stm32f2xx_adc.h)(0x53291032)
